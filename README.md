@@ -8,9 +8,6 @@
 I am a Self driven and motivated Engineer adept at developing software products and
 implementing new software platforms. Possessing great analytical skills, ability to work in team environments and strong attention to detail.
 
-Currently I am Working as a Senior Full Stack Engineer at [BigBuddy](https://bigbuddy.in/)
-
-You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Workshops](www.vrook.tech) etc, to help out the students like me in all possible ways I can.
 
 ---
 <h2>😎 Skills</h2>
@@ -19,15 +16,7 @@ You can visit my website where I Provide [Blogs](https://viveksingh.tech/) / [Wo
 
 ---
 
-📕 Latest Blogs & Articles
 
-✍ [My Technical Writeups](https://viveksingh.tech/)
-1) [Cloud computing using Microsoft Azure ](https://viveksingh.tech/from-basic-knowledge-of-coding-to-deploying-your-own-website-on-microsoft-azure)
-
----
-📺 Videos
-
-▶[...Coming Soon](www.meetind.me)
 
 
 ---

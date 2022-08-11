@@ -1,7 +1,7 @@
 <h1> Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/viveksinghtech?label=Follow%20me%20on%20twitter&style=social)](https://twitter.com/viveksinghtech)
+
 
 
 
